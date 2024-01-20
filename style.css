@@ -1,0 +1,40 @@
+h3{
+  color:maroon;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+body{
+  background-color:pink;
+  text-align:center;
+}
+#id{
+  text-shadow:2px 2px gray;
+  
+}
+img{
+  width:300px;
+  border-radius:8px
+}
+h4{
+  width: 100%;
+  background-color: white;
+  color:maroon;
+  padding: 5px;
+}
+#heading{
+    text-decoration: underline;
+    font-family: Cedarville Cursive ;
+    
+}
+a{
+  background-color: white;
+  padding: 15px;
+  width: 150px;
+  height: 100px;
+  border-width: 2px;
+  border-color: maroon;
+  font-size: 25px;
+  border-radius: 20px;
+}
+
+
